@@ -8,7 +8,7 @@ Welcome to my Github profile. Here's a bunch of information about myself, so you
 
 :cat2: I'm a cat person, but I love animals in general. 
 
-:round_pushpin: I'm brazilian (born and raised), more specifically _mineiro_ (which means that I'm from the state of Minas Gerais), but I also speak English and German. You can reach out to me in any of these languages.
+:round_pushpin: I'm brazilian (born and raised), more specifically _mineiro_ (which means that I'm from the state of Minas Gerais), but I also speak English and German. You can reach out to me in any of these languages. By the way, we speak Portuguese in Brazil, not Spanish. Yes. Surprise surprise.
 
 :beers: If you want to be my friend, invite me to have a beer.
 
