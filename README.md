@@ -14,6 +14,4 @@ Welcome to my Github profile. Here's a bunch of information about myself, so you
 
 :computer: I have a great passion for the art of programming and for Computer Science in general. I love to talk about it, explain it and work with it.
 
-:sound: from Rock and Roll to Classical Music, I'll listen to it. But mostly Classical.
-
 If you wish to contact me, my e-mail is emilianotca@protonmail.ch
